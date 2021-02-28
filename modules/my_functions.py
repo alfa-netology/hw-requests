@@ -4,7 +4,7 @@ import requests
 def who_is_smarter(token: str, names: list):
     """ выесняет кто из героев умнее """
     intelligence = 0
-    smartest = ''
+    smartest, hero_intelligence = '', ''
     for name in names:
         url = f'https://superheroapi.com/api/{token}/search/{name}'
         response = requests.get(url).json()

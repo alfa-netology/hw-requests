@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
     # Задача 2. Загружаем файл на Яндекс.диск
     print(f'{COLORS.RED}Task #2.{COLORS.WHITE} Upload file to Yandex.disk')
-    
+
     OAuth_token = '->place OAuth_token HERE<-'
     file_to_upload = 'upload/super_heroes_ids.json'
 
