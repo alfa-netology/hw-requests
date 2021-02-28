@@ -1,5 +1,6 @@
 import requests
 
+# Задача 1
 def who_is_smarter(token: str, names: list):
     """ выесняет кто из героев умнее """
     intelligence = 0
