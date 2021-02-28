@@ -19,6 +19,7 @@ def who_is_smarter(token: str, names: list):
             for item in results:
                 if item['name'] == name:
                     hero_intelligence = int(item['powerstats']['intelligence'])
+                    break
 
             if intelligence < hero_intelligence:
                 intelligence = hero_intelligence
