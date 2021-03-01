@@ -18,12 +18,12 @@ class YaUploader:
         response = requests.get(url, headers=self._auth_header, params=params)
 
         if response.ok:
-            print(f"{COLORS.GREEN}success:{COLORS.WHITE} Link to upload received.")
+            print(f"{COLORS.GREEN}Success:{COLORS.WHITE} Link to upload received.")
             return True, response.json()['href']
         else:
             status_code = f"Response code <{response.status_code}>."
             error_message = response.json()['message']
-            return False, f"{COLORS.RED}failure:{COLORS.WHITE} {status_code} {error_message}\n"
+            return False, f"{COLORS.RED}Failure:{COLORS.WHITE} {status_code} {error_message}\n"
 
     def upload(self, file: str):
         """Метод загруджает файл file на яндекс диск"""
@@ -32,18 +32,16 @@ class YaUploader:
 
         if status is True:
             url = result
-
             with open(file, encoding='utf-8') as f:
                 data = f.read()
-
             response = requests.put(url, data)
 
             if response.status_code == 201:
-                return f"{COLORS.GREEN}success:{COLORS.WHITE} " \
-                       f"'{file_name}' successfully upload to YaDisk{COLORS.WHITE}\n"
+                return f"{COLORS.GREEN}Success:{COLORS.WHITE} " \
+                       f"'{file_name}' successfully upload to YaDisk.\n"
             else:
                 status_code = f"Response code <{response.status_code}>"
                 error_message = response.json()['message']
-                return f"{COLORS.RED}failure:{COLORS.WHITE} {status_code} {error_message}.\n"
+                return f"{COLORS.RED}Failure:{COLORS.WHITE} {status_code} {error_message}.\n"
         else:
             return result

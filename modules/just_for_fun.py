@@ -28,7 +28,7 @@ def get_super_heroes_ids(url):
     with open(os.path.join(save_name), 'a') as f:
         f.write(result)
 
-    print(f"{COLORS.GREEN}success:{COLORS.WHITE} data collected & save\n{save_name}")
+    print(f"{COLORS.GREEN}Success:{COLORS.WHITE} data collected & saved\n{save_name}")
 
 def get_html(url):
     """ возвращает HTML-код запрошенной страницы """
