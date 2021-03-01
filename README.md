@@ -11,3 +11,5 @@
 * Решение: функция **stackoverflow_questions()**, результат сохраняется 'output/stackoverflow_questions.json'
 #### Just for fun  
 * Небольшой веб-скрапер, который извлекает имена и id супер-героев с https://superheroapi.com/ids.html, результат сохраняется 'output/stackoverflow_questions.json'
+
+![image](https://user-images.githubusercontent.com/43640106/109567626-b7418500-7af6-11eb-89b6-bfbc61bb69f4.png)
