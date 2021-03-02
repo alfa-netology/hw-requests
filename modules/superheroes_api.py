@@ -8,6 +8,8 @@ import modules.COLORS as COLORS
 # Задача 1
 def who_is_smarter(token: str, names: list):
     """ выесняет кто из героев умнее """
+    print(f'{COLORS.RED}Task #1.{COLORS.WHITE} Who is smarted {", ".join(names)}?')
+
     intelligence, hero_intelligence = 0, 0
     smartest = ''
     for name in names:
@@ -41,6 +43,9 @@ def get_ids_and_names(url):
     парсит полученный HTML-код со страницы https://superheroapi.com/ids.html
     создает словарь {'hero_id': 'hero_name'} и сохраняет его в output/super_dict.json
     """
+    print(f"{COLORS.RED}Just for fun #1.{COLORS.WHITE} "
+          f"Parse super-heroes names & ids from https://superheroapi.com/ids.html")
+
     soup = get_html(url)
     items = soup.find_all('tr')
     super_heroes_ids_and_names = {}
