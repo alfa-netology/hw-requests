@@ -1,7 +1,7 @@
 import modules.COLORS as COLORS
-import modules.my_functions as functions
-import modules.just_for_fun as just_for_fun
-from modules.MyClasses import YaUploader
+import modules.stackoverflow_api as stackoverflow_api
+import modules.superheroes_api as superheroes_api
+from modules.yandex_api import YaUploader
 
 if __name__ == '__main__':
 
@@ -10,7 +10,7 @@ if __name__ == '__main__':
     names = ['Hulk', 'Captain America', 'Thanos']
     print(f'{COLORS.RED}Task #1.{COLORS.WHITE} Who is smarted {", ".join(names)}?')
 
-    status, result = functions.who_is_smarter(super_token, names)
+    status, result = superheroes_api.who_is_smarter(super_token, names)
 
     if status is True:
         name, intelligence = result
@@ -33,7 +33,7 @@ if __name__ == '__main__':
     # Задача 3. Получить со stackoverflow список вопросов за последние 2 дня с тэгом python.
     # результат сохраняется 'output/stackoverflow_questions.json'
     print(f'{COLORS.RED}Task #3.{COLORS.WHITE} Collect questions from stackoverflow')
-    functions.stackoverflow_questions(1, 'Python')
+    stackoverflow_api.get_questions(1, 'Python')
 
     # Just for fun.
     # Парсим имена и id героев https://superheroapi.com/ids.html
@@ -41,4 +41,4 @@ if __name__ == '__main__':
     print(f"{COLORS.RED}Just for fun #1.{COLORS.WHITE} "
           f"Parse super-heroes names & ids from https://superheroapi.com/ids.html")
 
-    just_for_fun.get_super_heroes_ids('https://superheroapi.com/ids.html')
+    superheroes_api.get_ids_and_names('https://superheroapi.com/ids.html')
