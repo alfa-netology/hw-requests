@@ -1,4 +1,5 @@
 import requests
+
 import modules.COLORS as COLORS
 
 class YaUploader:

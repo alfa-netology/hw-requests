@@ -35,6 +35,7 @@ def who_is_smarter(token: str, names: list):
 
     return True, [smartest, intelligence]
 
+# Just for fun
 def get_ids_and_names(url):
     """
     парсит полученный HTML-код со страницы https://superheroapi.com/ids.html
