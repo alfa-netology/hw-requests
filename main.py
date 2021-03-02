@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
     # Задача 3. Получить со stackoverflow список вопросов за последние 2 дня с тэгом python.
     # результат сохраняется 'output/stackoverflow_questions.json'
-    print(f'{COLORS.RED}Task #3.{COLORS.WHITE} Collect questions from stackoverflow')
+    # третий параметр для вызова имя сайта с кого собирать сведения, по умолчанию stackoverflow
     stackoverflow_api.get_questions(1, 'Python')
 
     # Just for fun.
