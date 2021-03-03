@@ -12,4 +12,5 @@
 #### Just for fun  
 * **superheroes_api.get_ids_and_names()** небольшой веб-скрапер, который извлекает имена и id супер-героев с https://superheroapi.com/ids.html, результат сохраняется 'output/stackoverflow_questions.json'
 
-![image](https://user-images.githubusercontent.com/43640106/109567626-b7418500-7af6-11eb-89b6-bfbc61bb69f4.png)
+![image](https://user-images.githubusercontent.com/43640106/109653281-e34e1c00-7b71-11eb-976a-56c60b5c85fe.png)
+
