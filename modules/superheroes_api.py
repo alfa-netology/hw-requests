@@ -21,13 +21,10 @@ def who_is_smarter(token: str, names: list):
             """
             на запрос по имени героя может прийти больше одного ответа.
             Hulk -> Hulk, Red Hulk, She-Hulk. Surprise! Surprise!
-            поэтому перебираю ответ в поиске нужного имени.
+            поэтому фильтрую ответ в поиске нужного имени.
             """
-
-            for item in results:
-                if item['name'] == name:
-                    hero_intelligence = int(item['powerstats']['intelligence'])
-                    break
+            hero = [item for item in results if item['name'] == name]
+            hero_intelligence = int(hero[0]['powerstats']['intelligence'])
 
             if intelligence < hero_intelligence:
                 intelligence = hero_intelligence
