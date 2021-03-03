@@ -3,7 +3,7 @@ import os
 import json
 from bs4 import BeautifulSoup
 
-import modules.COLORS as COLORS
+import modules.colors as COLORS
 
 # Задача 1
 def who_is_smarter(token: str, names: list):
@@ -23,6 +23,7 @@ def who_is_smarter(token: str, names: list):
             Hulk -> Hulk, Red Hulk, She-Hulk. Surprise! Surprise!
             поэтому перебираю ответ в поиске нужного имени.
             """
+
             for item in results:
                 if item['name'] == name:
                     hero_intelligence = int(item['powerstats']['intelligence'])

@@ -8,7 +8,7 @@
 * Решение: класс **YaUploader()** и его метод **upload()**
 ##### Задача №3  
 * Написать программу, которая выводит все вопросы за последние два дня на stackoverflow и содержит тэг 'Python'  
-* Решение: функция **stackoverflow_api.get_questions()**, результат сохраняется 'output/stackoverflow_questions.json'
+* Решение: функция **stackoverflow_api.get_questions()git**, результат сохраняется 'output/stackoverflow_questions.json'
 #### Just for fun  
 * **superheroes_api.get_ids_and_names()** небольшой веб-скрапер, который извлекает имена и id супер-героев с https://superheroapi.com/ids.html, результат сохраняется 'output/stackoverflow_questions.json'
 

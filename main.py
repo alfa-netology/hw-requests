@@ -1,4 +1,4 @@
-import modules.COLORS as COLORS
+import modules.colors as COLORS
 import modules.superheroes_api as superheroes_api
 from modules.yandex_api import YaUploader
 import modules.stackoverflow_api as stackoverflow_api

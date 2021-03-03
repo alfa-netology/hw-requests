@@ -1,254 +1,5 @@
 {
     "1": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250219,
-        "title": "Как получить текст, находящийся внутри HTML тега Python",
-        "link": "https://ru.stackoverflow.com/questions/1250219/%d0%9a%d0%b0%d0%ba-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8%d1%82%d1%8c-%d1%82%d0%b5%d0%ba%d1%81%d1%82-%d0%bd%d0%b0%d1%85%d0%be%d0%b4%d1%8f%d1%89%d0%b8%d0%b9%d1%81%d1%8f-%d0%b2%d0%bd%d1%83%d1%82%d1%80%d0%b8-html-%d1%82%d0%b5%d0%b3%d0%b0-python",
-        "tags": [
-            "python",
-            "html",
-            "классы",
-            "bs4"
-        ]
-    },
-    "2": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250241,
-        "title": "Возможно ли задать переменным такое значение, чтобы код сумел выполниться?",
-        "link": "https://ru.stackoverflow.com/questions/1250241/%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be-%d0%bb%d0%b8-%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d1%8c-%d0%bf%d0%b5%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d1%8b%d0%bc-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d1%87%d1%82%d0%be%d0%b1%d1%8b-%d0%ba%d0%be%d0%b4-%d1%81%d1%83%d0%bc%d0%b5%d0%bb-%d0%b2%d1%8b%d0%bf%d0%be%d0%bb%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f",
-        "tags": [
-            "python"
-        ]
-    },
-    "3": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250262,
-        "title": "Вывод по нажатию мыши",
-        "link": "https://ru.stackoverflow.com/questions/1250262/%d0%92%d1%8b%d0%b2%d0%be%d0%b4-%d0%bf%d0%be-%d0%bd%d0%b0%d0%b6%d0%b0%d1%82%d0%b8%d1%8e-%d0%bc%d1%8b%d1%88%d0%b8",
-        "tags": [
-            "python",
-            "pygame"
-        ]
-    },
-    "4": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250275,
-        "title": "Почему то PEP8 ругается на недостаток аргумента word, help me please. (pymorphy2)",
-        "link": "https://ru.stackoverflow.com/questions/1250275/%d0%9f%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d1%82%d0%be-pep8-%d1%80%d1%83%d0%b3%d0%b0%d0%b5%d1%82%d1%81%d1%8f-%d0%bd%d0%b0-%d0%bd%d0%b5%d0%b4%d0%be%d1%81%d1%82%d0%b0%d1%82%d0%be%d0%ba-%d0%b0%d1%80%d0%b3%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d0%b0-word-help-me-please-pymorphy2",
-        "tags": [
-            "python",
-            "python-3.x"
-        ]
-    },
-    "5": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250282,
-        "title": "Celery. Большое количество задач в очереди",
-        "link": "https://ru.stackoverflow.com/questions/1250282/celery-%d0%91%d0%be%d0%bb%d1%8c%d1%88%d0%be%d0%b5-%d0%ba%d0%be%d0%bb%d0%b8%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%be-%d0%b7%d0%b0%d0%b4%d0%b0%d1%87-%d0%b2-%d0%be%d1%87%d0%b5%d1%80%d0%b5%d0%b4%d0%b8",
-        "tags": [
-            "python",
-            "django",
-            "celery"
-        ]
-    },
-    "6": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250287,
-        "title": "Проверить кто нажал на реакцию",
-        "link": "https://ru.stackoverflow.com/questions/1250287/%d0%9f%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%b8%d1%82%d1%8c-%d0%ba%d1%82%d0%be-%d0%bd%d0%b0%d0%b6%d0%b0%d0%bb-%d0%bd%d0%b0-%d1%80%d0%b5%d0%b0%d0%ba%d1%86%d0%b8%d1%8e",
-        "tags": [
-            "python",
-            "бот",
-            "discord.py"
-        ]
-    },
-    "7": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250268,
-        "title": "Разделить список на отдельные списки с условием Python",
-        "link": "https://ru.stackoverflow.com/questions/1250268/%d0%a0%d0%b0%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d1%8c-%d1%81%d0%bf%d0%b8%d1%81%d0%be%d0%ba-%d0%bd%d0%b0-%d0%be%d1%82%d0%b4%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%81%d0%bf%d0%b8%d1%81%d0%ba%d0%b8-%d1%81-%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8%d0%b5%d0%bc-python",
-        "tags": [
-            "python",
-            "алгоритм",
-            "сортировка",
-            "list"
-        ]
-    },
-    "8": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250283,
-        "title": "Анализ и выборка уникальных сообщений",
-        "link": "https://ru.stackoverflow.com/questions/1250283/%d0%90%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7-%d0%b8-%d0%b2%d1%8b%d0%b1%d0%be%d1%80%d0%ba%d0%b0-%d1%83%d0%bd%d0%b8%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b9",
-        "tags": [
-            "python",
-            "pandas"
-        ]
-    },
-    "9": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250304,
-        "title": "Пиксели в Pillow",
-        "link": "https://ru.stackoverflow.com/questions/1250304/%d0%9f%d0%b8%d0%ba%d1%81%d0%b5%d0%bb%d0%b8-%d0%b2-pillow",
-        "tags": [
-            "python",
-            "pillow"
-        ]
-    },
-    "10": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250334,
-        "title": "Как переделать код под x32 Windows?",
-        "link": "https://ru.stackoverflow.com/questions/1250334/%d0%9a%d0%b0%d0%ba-%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%ba%d0%be%d0%b4-%d0%bf%d0%be%d0%b4-x32-windows",
-        "tags": [
-            "python",
-            "windows"
-        ]
-    },
-    "11": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250353,
-        "title": "Ошибка NoneType",
-        "link": "https://ru.stackoverflow.com/questions/1250353/%d0%9e%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-nonetype",
-        "tags": [
-            "python"
-        ]
-    },
-    "12": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250326,
-        "title": "Равномерно распределенные элементы массивов",
-        "link": "https://ru.stackoverflow.com/questions/1250326/%d0%a0%d0%b0%d0%b2%d0%bd%d0%be%d0%bc%d0%b5%d1%80%d0%bd%d0%be-%d1%80%d0%b0%d1%81%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d1%8d%d0%bb%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%bc%d0%b0%d1%81%d1%81%d0%b8%d0%b2%d0%be%d0%b2",
-        "tags": [
-            "python",
-            "python-3.x",
-            "numpy"
-        ]
-    },
-    "13": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250335,
-        "title": "telethon bot и cron linux",
-        "link": "https://ru.stackoverflow.com/questions/1250335/telethon-bot-%d0%b8-cron-linux",
-        "tags": [
-            "python",
-            "python-3.x",
-            "cron",
-            "telethon"
-        ]
-    },
-    "14": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250368,
-        "title": "Красивый вывод из списка в одну строку",
-        "link": "https://ru.stackoverflow.com/questions/1250368/%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d1%8b%d0%b9-%d0%b2%d1%8b%d0%b2%d0%be%d0%b4-%d0%b8%d0%b7-%d1%81%d0%bf%d0%b8%d1%81%d0%ba%d0%b0-%d0%b2-%d0%be%d0%b4%d0%bd%d1%83-%d1%81%d1%82%d1%80%d0%be%d0%ba%d1%83",
-        "tags": [
-            "python",
-            "list",
-            "telebot"
-        ]
-    },
-    "15": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250386,
-        "title": "Ошибка связанная io и PIL в python, пытался написать бота",
-        "link": "https://ru.stackoverflow.com/questions/1250386/%d0%9e%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-%d1%81%d0%b2%d1%8f%d0%b7%d0%b0%d0%bd%d0%bd%d0%b0%d1%8f-io-%d0%b8-pil-%d0%b2-python-%d0%bf%d1%8b%d1%82%d0%b0%d0%bb%d1%81%d1%8f-%d0%bd%d0%b0%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d0%b1%d0%be%d1%82%d0%b0",
-        "tags": [
-            "python",
-            "bot",
-            "discord",
-            "io",
-            "pil"
-        ]
-    },
-    "16": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250366,
-        "title": "Почему он жалуется на табуляцию?",
-        "link": "https://ru.stackoverflow.com/questions/1250366/%d0%9f%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%be%d0%bd-%d0%b6%d0%b0%d0%bb%d1%83%d0%b5%d1%82%d1%81%d1%8f-%d0%bd%d0%b0-%d1%82%d0%b0%d0%b1%d1%83%d0%bb%d1%8f%d1%86%d0%b8%d1%8e",
-        "tags": [
-            "python",
-            "discord-py"
-        ]
-    },
-    "17": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250394,
-        "title": "Помогите решить задачу?",
-        "link": "https://ru.stackoverflow.com/questions/1250394/%d0%9f%d0%be%d0%bc%d0%be%d0%b3%d0%b8%d1%82%d0%b5-%d1%80%d0%b5%d1%88%d0%b8%d1%82%d1%8c-%d0%b7%d0%b0%d0%b4%d0%b0%d1%87%d1%83",
-        "tags": [
-            "python"
-        ]
-    },
-    "18": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250412,
-        "title": "Связанные данные ForeignKey в django python",
-        "link": "https://ru.stackoverflow.com/questions/1250412/%d0%a1%d0%b2%d1%8f%d0%b7%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-foreignkey-%d0%b2-django-python",
-        "tags": [
-            "python",
-            "django",
-            "orm"
-        ]
-    },
-    "19": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250422,
-        "title": "Как сделать полученное значение из базы данных жирным (pytelegrambotapi)",
-        "link": "https://ru.stackoverflow.com/questions/1250422/%d0%9a%d0%b0%d0%ba-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b5%d0%bd%d0%bd%d0%be%d0%b5-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7-%d0%b1%d0%b0%d0%b7%d1%8b-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d0%b6%d0%b8%d1%80%d0%bd%d1%8b%d0%bc-pytelegrambotapi",
-        "tags": [
-            "python",
-            "sqlite",
-            "telebot",
-            "pytelegrambotapi"
-        ]
-    },
-    "20": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250427,
-        "title": "Проверка кода Python. Проверка введенных значений. Тестовые данные",
-        "link": "https://ru.stackoverflow.com/questions/1250427/%d0%9f%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b0-%d0%ba%d0%be%d0%b4%d0%b0-python-%d0%9f%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b0-%d0%b2%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d0%b9-%d0%a2%d0%b5%d1%81%d1%82%d0%be%d0%b2%d1%8b%d0%b5-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5",
-        "tags": [
-            "python",
-            "математика",
-            "данные"
-        ]
-    },
-    "21": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250465,
-        "title": "Как избежать ошибки при вводе данных? (Начальный уровень Python)",
-        "link": "https://ru.stackoverflow.com/questions/1250465/%d0%9a%d0%b0%d0%ba-%d0%b8%d0%b7%d0%b1%d0%b5%d0%b6%d0%b0%d1%82%d1%8c-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8-%d0%b2%d0%b2%d0%be%d0%b4%d0%b5-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d0%9d%d0%b0%d1%87%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d1%83%d1%80%d0%be%d0%b2%d0%b5%d0%bd%d1%8c-python",
-        "tags": [
-            "python",
-            "python-3.x",
-            "input"
-        ]
-    },
-    "22": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250472,
-        "title": "Новый датафрейм из старого",
-        "link": "https://ru.stackoverflow.com/questions/1250472/%d0%9d%d0%be%d0%b2%d1%8b%d0%b9-%d0%b4%d0%b0%d1%82%d0%b0%d1%84%d1%80%d0%b5%d0%b9%d0%bc-%d0%b8%d0%b7-%d1%81%d1%82%d0%b0%d1%80%d0%be%d0%b3%d0%be",
-        "tags": [
-            "python",
-            "python-3.x",
-            "pandas",
-            "numpy"
-        ]
-    },
-    "23": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250310,
-        "title": "Как правильно сделать аннотацию *args, **kwargs и self",
-        "link": "https://ru.stackoverflow.com/questions/1250310/%d0%9a%d0%b0%d0%ba-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%b0%d0%bd%d0%bd%d0%be%d1%82%d0%b0%d1%86%d0%b8%d1%8e-args-kwargs-%d0%b8-self",
-        "tags": [
-            "python",
-            "типы",
-            "аннотации",
-            "code-style"
-        ]
-    },
-    "24": {
         "creation_date": "2021-03-02",
         "question_id": 1250488,
         "title": "Как подключить в игре PayPal/Qiwi/VK Pay и чтоб деньги шли на VK Pay? Игра на Pygame/Python",
@@ -261,53 +12,7 @@
             "paypal"
         ]
     },
-    "25": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250421,
-        "title": "Как правильней сделать сохранение файлов?",
-        "link": "https://ru.stackoverflow.com/questions/1250421/%d0%9a%d0%b0%d0%ba-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%b5%d0%b9-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d1%81%d0%be%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%84%d0%b0%d0%b9%d0%bb%d0%be%d0%b2",
-        "tags": [
-            "python",
-            "python-3.x",
-            "sqlite",
-            "discord-py",
-            "discord-api"
-        ]
-    },
-    "26": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250459,
-        "title": "Не получается отсортировать полученный после применения collections.Counter словари",
-        "link": "https://ru.stackoverflow.com/questions/1250459/%d0%9d%d0%b5-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f-%d0%be%d1%82%d1%81%d0%be%d1%80%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d1%82%d1%8c-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b5%d0%bd%d0%bd%d1%8b%d0%b9-%d0%bf%d0%be%d1%81%d0%bb%d0%b5-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d1%8f-collections-counter-%d1%81%d0%bb%d0%be%d0%b2",
-        "tags": [
-            "python",
-            "python-3.x",
-            "сортировка"
-        ]
-    },
-    "27": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250387,
-        "title": "Как с помощью selenium закрывать окна?",
-        "link": "https://ru.stackoverflow.com/questions/1250387/%d0%9a%d0%b0%d0%ba-%d1%81-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d1%8c%d1%8e-selenium-%d0%b7%d0%b0%d0%ba%d1%80%d1%8b%d0%b2%d0%b0%d1%82%d1%8c-%d0%be%d0%ba%d0%bd%d0%b0",
-        "tags": [
-            "python",
-            "python-3.x",
-            "selenium",
-            "selenium-webdriver",
-            "chromedriver"
-        ]
-    },
-    "28": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250436,
-        "title": "Нужно вместо букв подстовлять определённые знаки",
-        "link": "https://ru.stackoverflow.com/questions/1250436/%d0%9d%d1%83%d0%b6%d0%bd%d0%be-%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%b1%d1%83%d0%ba%d0%b2-%d0%bf%d0%be%d0%b4%d1%81%d1%82%d0%be%d0%b2%d0%bb%d1%8f%d1%82%d1%8c-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d1%91%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b7%d0%bd%d0%b0%d0%ba%d0%b8",
-        "tags": [
-            "python"
-        ]
-    },
-    "29": {
+    "2": {
         "creation_date": "2021-03-02",
         "question_id": 1250539,
         "title": "Ошибка генератора, помогите понять пожалуйста!",
@@ -317,7 +22,7 @@
             "машинное-обучение"
         ]
     },
-    "30": {
+    "3": {
         "creation_date": "2021-03-02",
         "question_id": 1250540,
         "title": "expected an indented block Помогите пожалуйста!",
@@ -326,20 +31,7 @@
             "python"
         ]
     },
-    "31": {
-        "creation_date": "2021-03-01",
-        "question_id": 1250405,
-        "title": "Вывести атрибут экземпляра класса, в зависимости от выбора в Combobox",
-        "link": "https://ru.stackoverflow.com/questions/1250405/%d0%92%d1%8b%d0%b2%d0%b5%d1%81%d1%82%d0%b8-%d0%b0%d1%82%d1%80%d0%b8%d0%b1%d1%83%d1%82-%d1%8d%d0%ba%d0%b7%d0%b5%d0%bc%d0%bf%d0%bb%d1%8f%d1%80%d0%b0-%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%b0-%d0%b2-%d0%b7%d0%b0%d0%b2%d0%b8%d1%81%d0%b8%d0%bc%d0%be%d1%81%d1%82%d0%b8-%d0%be%d1%82-%d0%b2%d1%8b%d0%b1%d0%be%d1%80%d0%b0-%d0%b2-combobox",
-        "tags": [
-            "python",
-            "python-3.x",
-            "ооп",
-            "tkinter",
-            "gui"
-        ]
-    },
-    "32": {
+    "4": {
         "creation_date": "2021-03-02",
         "question_id": 1250565,
         "title": "Как в цикле for корректно принимать типы строка или список?",
@@ -350,7 +42,7 @@
             "list"
         ]
     },
-    "33": {
+    "5": {
         "creation_date": "2021-03-02",
         "question_id": 1250547,
         "title": "Передать переменную python в js (или передать print на сайт)",
@@ -362,17 +54,7 @@
             "eel"
         ]
     },
-    "34": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250501,
-        "title": "Как устранить ошибку (завершение программы) при попытке переместить окно без рамки за кнопку?",
-        "link": "https://ru.stackoverflow.com/questions/1250501/%d0%9a%d0%b0%d0%ba-%d1%83%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b8%d1%82%d1%8c-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d1%83-%d0%b7%d0%b0%d0%b2%d0%b5%d1%80%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d1%8b-%d0%bf%d1%80%d0%b8-%d0%bf%d0%be%d0%bf%d1%8b%d1%82%d0%ba%d0%b5-%d0%bf%d0%b5%d1%80%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d0%b8%d1%82%d1%8c-%d0%be%d0%ba%d0%bd%d0%be-%d0%b1%d0%b5%d0%b7-%d1%80%d0%b0%d0%bc",
-        "tags": [
-            "python",
-            "pyqt5"
-        ]
-    },
-    "35": {
+    "6": {
         "creation_date": "2021-03-02",
         "question_id": 1250560,
         "title": "Как сделать правильный подсчет монет в pygame",
@@ -382,7 +64,7 @@
             "pygame"
         ]
     },
-    "36": {
+    "7": {
         "creation_date": "2021-03-02",
         "question_id": 1250629,
         "title": "Expected ASGI message &#39;websocket.accept&#39; or &#39;websocket.close&#39;, but got &#39;http.response.start&#39;",
@@ -395,7 +77,7 @@
             "uvicorn"
         ]
     },
-    "37": {
+    "8": {
         "creation_date": "2021-03-02",
         "question_id": 1250557,
         "title": "преобразование sys.argv в (*args, **kwargs)",
@@ -406,7 +88,7 @@
             "argv"
         ]
     },
-    "38": {
+    "9": {
         "creation_date": "2021-03-02",
         "question_id": 1250602,
         "title": "Как получить дату и время в начале каждой строки?",
@@ -416,7 +98,7 @@
             "python-3.x"
         ]
     },
-    "39": {
+    "10": {
         "creation_date": "2021-03-02",
         "question_id": 1250534,
         "title": "Ошибка в Телеграмм Боте",
@@ -426,7 +108,7 @@
             "telegram-bot"
         ]
     },
-    "40": {
+    "11": {
         "creation_date": "2021-03-02",
         "question_id": 1250508,
         "title": "Знак из строки в знак",
@@ -435,17 +117,7 @@
             "python"
         ]
     },
-    "41": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250610,
-        "title": "Как реализовать &quot;Читать далее&quot; в Django?",
-        "link": "https://ru.stackoverflow.com/questions/1250610/%d0%9a%d0%b0%d0%ba-%d1%80%d0%b5%d0%b0%d0%bb%d0%b8%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d1%8c-%d0%a7%d0%b8%d1%82%d0%b0%d1%82%d1%8c-%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5-%d0%b2-django",
-        "tags": [
-            "python",
-            "django"
-        ]
-    },
-    "42": {
+    "12": {
         "creation_date": "2021-03-02",
         "question_id": 1250650,
         "title": "Почему я не могу получить ID авторизовавшегося пользователя через Login manager",
@@ -455,7 +127,7 @@
             "flask"
         ]
     },
-    "43": {
+    "13": {
         "creation_date": "2021-03-02",
         "question_id": 1250658,
         "title": "Есть ли способ не передавать аругмент в url?",
@@ -465,27 +137,7 @@
             "django"
         ]
     },
-    "44": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250428,
-        "title": "ftlib ошибка WinError 10060",
-        "link": "https://ru.stackoverflow.com/questions/1250428/ftlib-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-winerror-10060",
-        "tags": [
-            "python",
-            "сеть"
-        ]
-    },
-    "45": {
-        "creation_date": "2021-03-02",
-        "question_id": 1250674,
-        "title": "как закончить функцию",
-        "link": "https://ru.stackoverflow.com/questions/1250674/%d0%ba%d0%b0%d0%ba-%d0%b7%d0%b0%d0%ba%d0%be%d0%bd%d1%87%d0%b8%d1%82%d1%8c-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d1%8e",
-        "tags": [
-            "python",
-            "python-3.x"
-        ]
-    },
-    "46": {
+    "14": {
         "creation_date": "2021-03-02",
         "question_id": 1250686,
         "title": "Flask-socketio отправка личного сообщения определенному пользователю",
@@ -495,7 +147,7 @@
             "flask"
         ]
     },
-    "47": {
+    "15": {
         "creation_date": "2021-03-02",
         "question_id": 1250649,
         "title": "Создание пустого массива NumPy и постепенное его заполнение",
@@ -506,7 +158,7 @@
             "numpy"
         ]
     },
-    "48": {
+    "16": {
         "creation_date": "2021-03-02",
         "question_id": 1250690,
         "title": "Перевод с паскаля на питон. Помогите пожалуйста",
@@ -515,7 +167,7 @@
             "python"
         ]
     },
-    "49": {
+    "17": {
         "creation_date": "2021-03-02",
         "question_id": 1250687,
         "title": "Как преобразовать строку чтобы получился список",
@@ -525,16 +177,114 @@
             "list"
         ]
     },
-    "50": {
+    "18": {
         "creation_date": "2021-03-02",
-        "question_id": 1250698,
-        "title": "Как написать автоответчика на пайтон?",
-        "link": "https://ru.stackoverflow.com/questions/1250698/%d0%9a%d0%b0%d0%ba-%d0%bd%d0%b0%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d0%b0%d0%b2%d1%82%d0%be%d0%be%d1%82%d0%b2%d0%b5%d1%82%d1%87%d0%b8%d0%ba%d0%b0-%d0%bd%d0%b0-%d0%bf%d0%b0%d0%b9%d1%82%d0%be%d0%bd",
+        "question_id": 1250501,
+        "title": "Как устранить ошибку (завершение программы) при попытке переместить окно без рамки за кнопку?",
+        "link": "https://ru.stackoverflow.com/questions/1250501/%d0%9a%d0%b0%d0%ba-%d1%83%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b8%d1%82%d1%8c-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d1%83-%d0%b7%d0%b0%d0%b2%d0%b5%d1%80%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d1%8b-%d0%bf%d1%80%d0%b8-%d0%bf%d0%be%d0%bf%d1%8b%d1%82%d0%ba%d0%b5-%d0%bf%d0%b5%d1%80%d0%b5%d0%bc%d0%b5%d1%81%d1%82%d0%b8%d1%82%d1%8c-%d0%be%d0%ba%d0%bd%d0%be-%d0%b1%d0%b5%d0%b7-%d1%80%d0%b0%d0%bc",
         "tags": [
-            "python"
+            "python",
+            "python-3.x",
+            "pyqt5",
+            "gui",
+            "pyqt"
         ]
     },
-    "51": {
+    "19": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250709,
+        "title": "Как в python vk_api отправить фото или файл в группу?",
+        "link": "https://ru.stackoverflow.com/questions/1250709/%d0%9a%d0%b0%d0%ba-%d0%b2-python-vk-api-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d1%82%d1%8c-%d1%84%d0%be%d1%82%d0%be-%d0%b8%d0%bb%d0%b8-%d1%84%d0%b0%d0%b9%d0%bb-%d0%b2-%d0%b3%d1%80%d1%83%d0%bf%d0%bf%d1%83",
+        "tags": [
+            "python",
+            "вконтакте"
+        ]
+    },
+    "20": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250755,
+        "title": "Проблема с play() в manim",
+        "link": "https://ru.stackoverflow.com/questions/1250755/%d0%9f%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d1%81-play-%d0%b2-manim",
+        "tags": [
+            "python",
+            "python-3.x"
+        ]
+    },
+    "21": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250610,
+        "title": "Как реализовать &quot;Читать далее&quot; в Django?",
+        "link": "https://ru.stackoverflow.com/questions/1250610/%d0%9a%d0%b0%d0%ba-%d1%80%d0%b5%d0%b0%d0%bb%d0%b8%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d1%8c-%d0%a7%d0%b8%d1%82%d0%b0%d1%82%d1%8c-%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5-%d0%b2-django",
+        "tags": [
+            "python",
+            "django"
+        ]
+    },
+    "22": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250757,
+        "title": "Городской транспорт ооп",
+        "link": "https://ru.stackoverflow.com/questions/1250757/%d0%93%d0%be%d1%80%d0%be%d0%b4%d1%81%d0%ba%d0%be%d0%b9-%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d0%be%d1%80%d1%82-%d0%be%d0%be%d0%bf",
+        "tags": [
+            "python",
+            "ооп"
+        ]
+    },
+    "23": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250775,
+        "title": "Контекстный менеджер, не возвращающий значения",
+        "link": "https://ru.stackoverflow.com/questions/1250775/%d0%9a%d0%be%d0%bd%d1%82%d0%b5%d0%ba%d1%81%d1%82%d0%bd%d1%8b%d0%b9-%d0%bc%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%b5%d1%80-%d0%bd%d0%b5-%d0%b2%d0%be%d0%b7%d0%b2%d1%80%d0%b0%d1%89%d0%b0%d1%8e%d1%89%d0%b8%d0%b9-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d1%8f",
+        "tags": [
+            "python",
+            "генераторы",
+            "yield"
+        ]
+    },
+    "24": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250788,
+        "title": "Как узнать в телебот chat_id по ссылке на чат/канал",
+        "link": "https://ru.stackoverflow.com/questions/1250788/%d0%9a%d0%b0%d0%ba-%d1%83%d0%b7%d0%bd%d0%b0%d1%82%d1%8c-%d0%b2-%d1%82%d0%b5%d0%bb%d0%b5%d0%b1%d0%be%d1%82-chat-id-%d0%bf%d0%be-%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b5-%d0%bd%d0%b0-%d1%87%d0%b0%d1%82-%d0%ba%d0%b0%d0%bd%d0%b0%d0%bb",
+        "tags": [
+            "python",
+            "telebot"
+        ]
+    },
+    "25": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250740,
+        "title": "Не работает сallback для кнопки (Aiogram) созданный в цикле",
+        "link": "https://ru.stackoverflow.com/questions/1250740/%d0%9d%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d1%81allback-%d0%b4%d0%bb%d1%8f-%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d0%b8-aiogram-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d0%b2-%d1%86%d0%b8%d0%ba%d0%bb%d0%b5",
+        "tags": [
+            "python",
+            "aiogram"
+        ]
+    },
+    "26": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250762,
+        "title": "python как подключиться к wifi windows",
+        "link": "https://ru.stackoverflow.com/questions/1250762/python-%d0%ba%d0%b0%d0%ba-%d0%bf%d0%be%d0%b4%d0%ba%d0%bb%d1%8e%d1%87%d0%b8%d1%82%d1%8c%d1%81%d1%8f-%d0%ba-wifi-windows",
+        "tags": [
+            "python",
+            "python-3.x",
+            "wifi",
+            "password"
+        ]
+    },
+    "27": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250804,
+        "title": "Python print vs Js console.log",
+        "link": "https://ru.stackoverflow.com/questions/1250804/python-print-vs-js-console-log",
+        "tags": [
+            "javascript",
+            "python",
+            "node.js"
+        ]
+    },
+    "28": {
         "creation_date": "2021-03-02",
         "question_id": 1250654,
         "title": "Сумма чётных цифр числа",
@@ -542,6 +292,213 @@
         "tags": [
             "python",
             "pascal"
+        ]
+    },
+    "29": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250808,
+        "title": "Запуск внешнего приложения в python",
+        "link": "https://ru.stackoverflow.com/questions/1250808/%d0%97%d0%b0%d0%bf%d1%83%d1%81%d0%ba-%d0%b2%d0%bd%d0%b5%d1%88%d0%bd%d0%b5%d0%b3%d0%be-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b2-python",
+        "tags": [
+            "python",
+            "python-3.x",
+            "pycharm"
+        ]
+    },
+    "30": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250749,
+        "title": "Удаление столбцов в переборе python",
+        "link": "https://ru.stackoverflow.com/questions/1250749/%d0%a3%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d1%82%d0%be%d0%bb%d0%b1%d1%86%d0%be%d0%b2-%d0%b2-%d0%bf%d0%b5%d1%80%d0%b5%d0%b1%d0%be%d1%80%d0%b5-python",
+        "tags": [
+            "python",
+            "dataframe"
+        ]
+    },
+    "31": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250809,
+        "title": "Как отбросить символы в тексте, состоящим из 2000 и более символов, до этих 2000 символов на Python?",
+        "link": "https://ru.stackoverflow.com/questions/1250809/%d0%9a%d0%b0%d0%ba-%d0%be%d1%82%d0%b1%d1%80%d0%be%d1%81%d0%b8%d1%82%d1%8c-%d1%81%d0%b8%d0%bc%d0%b2%d0%be%d0%bb%d1%8b-%d0%b2-%d1%82%d0%b5%d0%ba%d1%81%d1%82%d0%b5-%d1%81%d0%be%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b8%d0%bc-%d0%b8%d0%b7-2000-%d0%b8-%d0%b1%d0%be%d0%bb%d0%b5%d0%b5-%d1%81%d0%b8%d0%bc%d0%b2%d0%be%d0%bb%d0%be%d0%b2-%d0%b4%d0%be-%d1%8d%d1%82%d0%b8%d1%85-2000",
+        "tags": [
+            "python",
+            "python-3.x",
+            "discord.py",
+            "wikipedia"
+        ]
+    },
+    "32": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250838,
+        "title": "Не удаётся найти &quot;libc.so.6&quot; при запуске Python скрипта в Termux на Android",
+        "link": "https://ru.stackoverflow.com/questions/1250838/%d0%9d%d0%b5-%d1%83%d0%b4%d0%b0%d1%91%d1%82%d1%81%d1%8f-%d0%bd%d0%b0%d0%b9%d1%82%d0%b8-libc-so-6-%d0%bf%d1%80%d0%b8-%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d0%ba%d0%b5-python-%d1%81%d0%ba%d1%80%d0%b8%d0%bf%d1%82%d0%b0-%d0%b2-termux-%d0%bd%d0%b0-android",
+        "tags": [
+            "python",
+            "android",
+            "lib",
+            "обфускация",
+            "termux"
+        ]
+    },
+    "33": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250821,
+        "title": "Объединение столбцов с суммированием значений в ячейках по одинаковому значению столбца",
+        "link": "https://ru.stackoverflow.com/questions/1250821/%d0%9e%d0%b1%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d1%82%d0%be%d0%bb%d0%b1%d1%86%d0%be%d0%b2-%d1%81-%d1%81%d1%83%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d0%b9-%d0%b2-%d1%8f%d1%87%d0%b5%d0%b9%d0%ba%d0%b0%d1%85-%d0%bf%d0%be-%d0%be%d0%b4%d0%b8%d0%bd%d0%b0%d0%ba%d0%be%d0%b2%d0%be%d0%bc%d1%83-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d1%8e",
+        "tags": [
+            "python",
+            "pandas",
+            "объединение"
+        ]
+    },
+    "34": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250839,
+        "title": "Как задать права для роли @everyone",
+        "link": "https://ru.stackoverflow.com/questions/1250839/%d0%9a%d0%b0%d0%ba-%d0%b7%d0%b0%d0%b4%d0%b0%d1%82%d1%8c-%d0%bf%d1%80%d0%b0%d0%b2%d0%b0-%d0%b4%d0%bb%d1%8f-%d1%80%d0%be%d0%bb%d0%b8-everyone",
+        "tags": [
+            "python",
+            "discord",
+            "discord-py"
+        ]
+    },
+    "35": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250707,
+        "title": "Принт не выводит результаты. Python",
+        "link": "https://ru.stackoverflow.com/questions/1250707/%d0%9f%d1%80%d0%b8%d0%bd%d1%82-%d0%bd%d0%b5-%d0%b2%d1%8b%d0%b2%d0%be%d0%b4%d0%b8%d1%82-%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d1%8b-python",
+        "tags": [
+            "python",
+            "python-3.x"
+        ]
+    },
+    "36": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250860,
+        "title": "Связанные данные ManyToManyField Django Python",
+        "link": "https://ru.stackoverflow.com/questions/1250860/%d0%a1%d0%b2%d1%8f%d0%b7%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-manytomanyfield-django-python",
+        "tags": [
+            "python",
+            "django",
+            "orm",
+            "manytomanyfield"
+        ]
+    },
+    "37": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250824,
+        "title": "Как вычислить следующую точку отрезка",
+        "link": "https://ru.stackoverflow.com/questions/1250824/%d0%9a%d0%b0%d0%ba-%d0%b2%d1%8b%d1%87%d0%b8%d1%81%d0%bb%d0%b8%d1%82%d1%8c-%d1%81%d0%bb%d0%b5%d0%b4%d1%83%d1%8e%d1%89%d1%83%d1%8e-%d1%82%d0%be%d1%87%d0%ba%d1%83-%d0%be%d1%82%d1%80%d0%b5%d0%b7%d0%ba%d0%b0",
+        "tags": [
+            "python",
+            "tkinter"
+        ]
+    },
+    "38": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250828,
+        "title": "Как создать кнопку которая записывает текущее время на Python?",
+        "link": "https://ru.stackoverflow.com/questions/1250828/%d0%9a%d0%b0%d0%ba-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d1%82%d1%8c-%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d1%83-%d0%ba%d0%be%d1%82%d0%be%d1%80%d0%b0%d1%8f-%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d1%8b%d0%b2%d0%b0%d0%b5%d1%82-%d1%82%d0%b5%d0%ba%d1%83%d1%89%d0%b5%d0%b5-%d0%b2%d1%80%d0%b5%d0%bc%d1%8f-%d0%bd%d0%b0-python",
+        "tags": [
+            "python",
+            "python-3.x",
+            "sql",
+            "tkinter"
+        ]
+    },
+    "39": {
+        "creation_date": "2021-03-03",
+        "question_id": 1250877,
+        "title": "задача ЕГЭ иформатика",
+        "link": "https://ru.stackoverflow.com/questions/1250877/%d0%b7%d0%b0%d0%b4%d0%b0%d1%87%d0%b0-%d0%95%d0%93%d0%ad-%d0%b8%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b0",
+        "tags": [
+            "python"
+        ]
+    },
+    "40": {
+        "creation_date": "2021-03-03",
+        "question_id": 1250894,
+        "title": "Сообщение только для отправителя",
+        "link": "https://ru.stackoverflow.com/questions/1250894/%d0%a1%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d1%82%d0%b5%d0%bb%d1%8f",
+        "tags": [
+            "python",
+            "telegram",
+            "aiogram"
+        ]
+    },
+    "41": {
+        "creation_date": "2021-03-03",
+        "question_id": 1250905,
+        "title": "Как сделать что бы telegram bot aiogram при нажатии на кнопку выдавал нужную информацию",
+        "link": "https://ru.stackoverflow.com/questions/1250905/%d0%9a%d0%b0%d0%ba-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d1%87%d1%82%d0%be-%d0%b1%d1%8b-telegram-bot-aiogram-%d0%bf%d1%80%d0%b8-%d0%bd%d0%b0%d0%b6%d0%b0%d1%82%d0%b8%d0%b8-%d0%bd%d0%b0-%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d1%83-%d0%b2%d1%8b%d0%b4%d0%b0%d0%b2%d0%b0%d0%bb-%d0%bd%d1%83%d0%b6%d0%bd%d1%83%d1%8e-%d0%b8%d0%bd%d1%84",
+        "tags": [
+            "python",
+            "python-3.x",
+            "telegram-bot",
+            "aiogram"
+        ]
+    },
+    "42": {
+        "creation_date": "2021-03-03",
+        "question_id": 1250907,
+        "title": "Python Увеличение счета при нажатии на кнопку",
+        "link": "https://ru.stackoverflow.com/questions/1250907/python-%d0%a3%d0%b2%d0%b5%d0%bb%d0%b8%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d1%87%d0%b5%d1%82%d0%b0-%d0%bf%d1%80%d0%b8-%d0%bd%d0%b0%d0%b6%d0%b0%d1%82%d0%b8%d0%b8-%d0%bd%d0%b0-%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d1%83",
+        "tags": [
+            "python"
+        ]
+    },
+    "43": {
+        "creation_date": "2021-03-03",
+        "question_id": 1250913,
+        "title": "PyCharm не видит последнюю версию интерпретатора Python",
+        "link": "https://ru.stackoverflow.com/questions/1250913/pycharm-%d0%bd%d0%b5-%d0%b2%d0%b8%d0%b4%d0%b8%d1%82-%d0%bf%d0%be%d1%81%d0%bb%d0%b5%d0%b4%d0%bd%d1%8e%d1%8e-%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8e-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bf%d1%80%d0%b5%d1%82%d0%b0%d1%82%d0%be%d1%80%d0%b0-python",
+        "tags": [
+            "python",
+            "pycharm"
+        ]
+    },
+    "44": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250735,
+        "title": "При методе form.save() все непереданные в форме поля перезаписываются пустыми значениями",
+        "link": "https://ru.stackoverflow.com/questions/1250735/%d0%9f%d1%80%d0%b8-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d0%b5-form-save-%d0%b2%d1%81%d0%b5-%d0%bd%d0%b5%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b2-%d1%84%d0%be%d1%80%d0%bc%d0%b5-%d0%bf%d0%be%d0%bb%d1%8f-%d0%bf%d0%b5%d1%80%d0%b5%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d1%8b%d0%b2%d0%b0%d1%8e%d1%82%d1%81%d1%8f-%d0%bf%d1%83%d1%81%d1%82%d1%8b%d0%bc%d0%b8-%d0%b7%d0%bd",
+        "tags": [
+            "python",
+            "django",
+            "form"
+        ]
+    },
+    "45": {
+        "creation_date": "2021-03-03",
+        "question_id": 1250875,
+        "title": "Как запихнуть класс в класс",
+        "link": "https://ru.stackoverflow.com/questions/1250875/%d0%9a%d0%b0%d0%ba-%d0%b7%d0%b0%d0%bf%d0%b8%d1%85%d0%bd%d1%83%d1%82%d1%8c-%d0%ba%d0%bb%d0%b0%d1%81%d1%81-%d0%b2-%d0%ba%d0%bb%d0%b0%d1%81%d1%81",
+        "tags": [
+            "python",
+            "kivy",
+            "приложение"
+        ]
+    },
+    "46": {
+        "creation_date": "2021-03-02",
+        "question_id": 1250864,
+        "title": "как изменить тип данных числа в Python",
+        "link": "https://ru.stackoverflow.com/questions/1250864/%d0%ba%d0%b0%d0%ba-%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b8%d1%82%d1%8c-%d1%82%d0%b8%d0%bf-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d1%87%d0%b8%d1%81%d0%bb%d0%b0-%d0%b2-python",
+        "tags": [
+            "python"
+        ]
+    },
+    "47": {
+        "creation_date": "2021-03-03",
+        "question_id": 1250925,
+        "title": "Приём сообщений электронной почты в Django 3",
+        "link": "https://ru.stackoverflow.com/questions/1250925/%d0%9f%d1%80%d0%b8%d1%91%d0%bc-%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b9-%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d0%bd%d0%bd%d0%be%d0%b9-%d0%bf%d0%be%d1%87%d1%82%d1%8b-%d0%b2-django-3",
+        "tags": [
+            "python",
+            "django",
+            "url",
+            "while",
+            "imap"
         ]
     }
 }

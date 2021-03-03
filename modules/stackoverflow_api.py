@@ -6,7 +6,7 @@ import time
 from collections import defaultdict
 from datetime import date
 
-import modules.COLORS as COLORS
+import modules.colors as COLORS
 
 # Задача #3
 def get_questions(days: int, tags: str, site='stackoverflow'):
@@ -23,10 +23,12 @@ def get_questions(days: int, tags: str, site='stackoverflow'):
 
 def collect_data(days, tags, site):
     # получаем данные
+    SECONDS_IN_DAY = 86400
     data_raw = defaultdict(list)  # временный словарь, для сохранения вопросов с каждой страницы
     page_number = 1
     todate_stamp = int(time.time())
-    fromdate_stamp = todate_stamp - (days * 86400)
+    fromdate_stamp = todate_stamp - (days * SECONDS_IN_DAY)
+
     # отправляю запрос
     page_data = make_request(fromdate_stamp, todate_stamp, tags, page_number, site)
     if page_data is not False:

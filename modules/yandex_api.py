@@ -1,6 +1,6 @@
 import requests
 
-import modules.COLORS as COLORS
+import modules.colors as COLORS
 
 class YaUploader:
     def __init__(self, token: str):
